@@ -1,0 +1,28 @@
+p{
+    background-color: hsl(0, 0, 0.7);
+    color: black;
+    font-weight: 600;
+    font-size: large;
+
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    text-shadow: none;
+    font-weight: 600;
+    cursor: pointer;
+    margin-left: 170px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+font-size: x-large;
+font-weight: 700;
+color: rgb(8, 8, 28);
+font-family: Arial, Helvetica, sans-serif;
+
+}
+button:hover{
+
+    background-color: rgb(176, 141, 141);
+    color: white;
+}
